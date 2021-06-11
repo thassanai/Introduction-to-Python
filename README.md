@@ -1,5 +1,5 @@
 # Introduction-to-Python
-Introduction to Python Work Shop
+Introduction to Python Work Shop มีรายละเอียดดังนี้
 Chapter 1 : การเตรียมความพร้อมก่อนเริ่มเขียนโปรแกรมด้วยภาษาไพธอน
 Chapter 2 : เข้าใจโครงสร้างและไวยากรณ์ภาษา รู้จักกับ ตัวแปร ตัวดำเนินการ
 Chapter 3 : โครงสร้างควบคุม แบบกำหนดเงื่อนไข , การทำซ้ำ
