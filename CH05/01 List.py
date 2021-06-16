@@ -115,3 +115,19 @@ name = list(["alpha","bravo","charlie","delta","echo"])
 #print("List ก่อน sort",fruit)
 #fruit.sort()
 #print("List หลังจาก sort",fruit)
+
+### เรียงลำดับชื่อ แล้ว reverse กลับ
+#student=["สมพร","แก้ว","จอมขวัญ","อัมพร","ก้อง","กล้า"]
+#print(student)
+#student.sort()
+#print(student)
+#student.reverse() 
+# หรือใช้แบบนี้ก็ได้ 
+#student=student[::-1]
+#print(student)
+
+### การหาผลรวมใน list ที่เป็น int
+print(number)
+print("ค่าที่น้อยที่สุด คือ ",min(number))
+print("ค่าที่มากที่สุด คือ ",max(number))
+print("ผลรวม คือ ",sum(number))
