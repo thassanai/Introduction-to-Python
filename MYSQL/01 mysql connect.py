@@ -3,9 +3,9 @@ import mysql.connector
 
 try:
     connection = mysql.connector.connect(
-        host="10.100.100.197",
+        host="10.100.100.1xx",
         user="python",
-        password="9042thas",
+        password="xxx",
         database="python"
     )
 
